@@ -24,9 +24,11 @@
 
 ### SEO-заголовок (≤80 симв.) — выбрать один
 ```
-I will create AI UGC video ads for your ecommerce product that dont look AI
+I will create AI UGC video ads for your ecommerce product that don't look AI
 ```
-*(74 симв. Комм.: ключи «AI UGC video ads» + «ecommerce product» впереди для поиска; «don't» пишу без апострофа — на Fiverr апостроф иногда съедает лимит/поиск. Если апостроф проходит — верни `don't`.)*
+*(75 симв. Комм.: ключи «AI UGC video ads» + «ecommerce product» впереди для поиска.)*
+
+> **Правило апострофа (для заголовков и one-liner):** сначала вставь вариант с `don't` (апостроф) в живом редакторе Fiverr. Если редактор ломает апостроф/поиск — **не** заменяй на «dont», а бери **альтернативу 3** ниже («…look native, not like an ad»). «dont» без апострофа не использовать.
 
 Альтернативы:
 ```
@@ -36,7 +38,7 @@ I will make scroll-stopping AI UGC video ads for Shopify and Amazon products
 I will create UGC video ads with AI that look native, not like an ad
 ```
 
-### Описание гига (≤1200 симв.) — ~965 симв.
+### Описание гига (≤1200 симв.) — ~1150 симв.
 ```
 Great hook rate but nobody buys — and someone told you the ad "looks AI"? I fix exactly that.
 
@@ -47,15 +49,19 @@ This work is AI-assisted and human-directed, and I'm open about it. The differen
 - Frame-by-frame authenticity QC: I hand-check every frame for AI tells — warped hands, faces, text, "plastic" skin.
 - One consistent AI actor across all variations (Soul ID) — no character that changes face between clips.
 
+If the first video reads as AI, I redo the problem frames free within your revisions.
+
 You send your product and a 5-minute brief. You get a native-looking ad your buyers won't scroll past.
 
 Best for Shopify, Amazon, DTC and dropshipping sellers who need fresh, converting creative without a film crew.
+
+I take a limited number of video orders per week to keep the frame-by-frame QC standard.
 
 Want to find your winner fast? Order the Standard package and test 3 hooks at once — how smart advertisers do it.
 
 Not sure it fits your product? Message me first and I'll tell you honestly.
 ```
-*Комм.: открываю болью №1 голосом клиента (VOC «looks AI generated», «hook rate»); QC + Soul ID поданы как always-included дифференциатор; «AI-assisted, human-directed» — открыто (research §6: честность = преимущество); в конце — decoy-толчок к Standard.*
+*Комм.: открываю болью №1 голосом клиента (VOC «looks AI generated», «hook rate»); QC + Soul ID поданы как always-included дифференциатор; гарантия «reads as AI → переделка» + capacity-scarcity; «AI-assisted, human-directed» — открыто (research §6: честность = преимущество); в конце — decoy-толчок к Standard.*
 
 ### Пакеты (поля Fiverr; description ≤~100 симв./тир)
 | Поле | **Basic** | **Standard** ⭐ | **Premium** |
@@ -64,7 +70,7 @@ Not sure it fits your product? Message me first and I'll tell you honestly.
 | Price | **$95** | **$265** | **$545** |
 | Delivery | 3 days | 5 days | 7 days |
 | Revisions | 1 | 2 | 3 |
-| Description | `1 UGC video ad, 1 hook, 15-30s, 9:16, captions. Frame QC + consistent actor included.` | `3 UGC videos (3 hooks), up to 2 ratios, captions. Find your winning hook. QC + actor incl.` | `~5 images + 1 video for your PDP/ad set, up to 3 ratios, captions. QC + actor incl.` |
+| Description | `1 UGC video ad, 1 hook, 15-30s, 9:16, captions. Frame QC + consistent actor included.` | `3 UGC videos (3 hooks), up to 2 ratios, captions. Find your winning hook. QC + actor incl.` | `5 images + 1 video for your PDP/ad set, up to 3 ratios, captions. QC + actor incl.` |
 
 **Included-чекбоксы (что тикнуть в пакете):**
 - Basic: Script/hook ✓ · 1 video ✓ · Captions ✓ · 1 aspect ratio ✓ · Authenticity QC ✓ · Consistent actor ✓
@@ -141,7 +147,7 @@ I will make listing-ready AI product images that dont look fake
 I will create ecommerce product images and infographics with AI
 ```
 
-### Описание гига (≤1200 симв.) — ~985 симв.
+### Описание гига (≤1200 симв.) — ~1055 симв.
 ```
 Product photos looking flat — or worse, obviously AI, with warped text, melted edges or the wrong product? I fix that.
 
@@ -152,6 +158,8 @@ This work is AI-assisted and human-directed, and I'm upfront about it. Built int
 - Frame-by-frame QC: I hand-check every image for AI artifacts and fix them before you ever see them.
 - Marketplace-spec ready: correct sizes and clean backgrounds that pass listing rules.
 
+Spot an AI artifact — warped text, hands, wrong product? I fix it free.
+
 You send your product photo and a short brief. You get polished images your listing needs — fast.
 
 Best for Amazon, Shopify, Etsy sellers and dropshippers who need professional images without hiring a photographer.
@@ -160,7 +168,7 @@ I'm new on Fiverr, so the Basic package is priced low while I earn my first revi
 
 Not sure it fits your product? Message me first and I'll tell you honestly.
 ```
-*Комм.: болью открываю голосом клиента (VOC «looks fake / warped»); QC как always-included; честность про AI; honest scarcity — intro-цена ради первых отзывов (не фейк).*
+*Комм.: болью открываю голосом клиента (VOC «looks fake / warped»); QC как always-included; гарантия «AI artifact → бесплатный фикс»; честность про AI; honest scarcity — intro-цена ради первых отзывов (не фейк).*
 
 ### Пакеты (description ≤~100 симв./тир)
 | Поле | **Basic** | **Standard** ⭐ | **Premium** |
@@ -174,7 +182,7 @@ Not sure it fits your product? Message me first and I'll tell you honestly.
 **Included-чекбоксы:**
 - Basic: 3 images ✓ · White background ✓ · 1 size set ✓ · Frame-by-frame QC ✓
 - Standard: 5 images ✓ · Hero + infographic + lifestyle ✓ · Multi-size export ✓ · Listing-order checklist ✓
-- Premium: Extended pack ✓ · Multi-platform sizes ✓ · Hero A/B variant ✓ · Matching UGC video (add-on) ✓
+- Premium: Extended pack ✓ · Multi-platform sizes ✓ · Hero A/B variant ✓
 
 ### Add-ons (gig extras)
 ```
@@ -220,7 +228,7 @@ A: Yes — I run a separate UGC video ad gig, and I can send returning image cli
 ```
 product images
 amazon listing
-product photography
+listing images
 ecommerce images
 ai product photo
 ```
@@ -240,9 +248,9 @@ You get the speed and price of AI with the polish buyers expect. Shopify, Amazon
 
 ### Specialization / one-liner (лимит не подтверждён — держу коротко)
 ```
-AI UGC video ads & product images that dont look AI
+AI UGC video ads & product images that don't look AI
 ```
-*(51 симв. Комм.: если поле длиннее — можно вернуть апостроф `don't`.)*
+*(52 симв. Комм.: правило апострофа — как у заголовков: сначала пробуй `don't`; если редактор ломает — fallback «AI UGC video ads & product images, human-QC'd», не «dont».)*
 
 ---
 
@@ -272,8 +280,7 @@ AI UGC video ads & product images that dont look AI
 ---
 
 ## Критерий закрытия этапа 4
-✅ Для каждого гига: SEO-заголовок (в лимите 80), описание (в лимите 1200), таблица пакетов (поля в лимите ~100), FAQ (6 шт), Requirements-бриф, 5 tags. Профиль (bio + one-liner). Кросс-сейл-механика решена (Custom Offer). Всё копипастится без доработки.
+✅ Для каждого гига: SEO-заголовок (в лимите 80) + правило апострофа с fallback, описание (в лимите 1200) со встроенной гарантией — у флагмана ещё capacity-scarcity, таблица пакетов (поля в лимите ~100; Premium флагмана = «5 images + 1 video»), FAQ (6 шт), Requirements-бриф, 5 tags. Из Premium входного удалён чекбокс «matching UGC video» (риск спора). Профиль (bio + one-liner с правилом апострофа). Кросс-сейл-механика решена (Custom Offer). Всё копипастится без доработки.
 
 ## Следующий шаг
 **Этап 5 — выставление на площадки:** Оксана публикует гиги/профиль руками, Claude Code сопровождает (чек-лист публикации + подготовка портфолио assets/ в нишах skincare/beauty + home/kitchen gadgets). Выход: `plans/publish-checklist.md`.
-</content>
