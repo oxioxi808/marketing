@@ -38,7 +38,7 @@ I will make scroll-stopping AI UGC video ads for Shopify and Amazon products
 I will create UGC video ads with AI that look native, not like an ad
 ```
 
-### Описание гига (≤1200 симв.) — ~1150 симв.
+### Описание гига (≤1200 симв.) — ~1170 симв.
 ```
 Great hook rate but nobody buys — and someone told you the ad "looks AI"? I fix exactly that.
 
@@ -47,7 +47,7 @@ I create scroll-stopping UGC video ads for ecommerce (Reels, TikTok, Shorts) tha
 This work is AI-assisted and human-directed, and I'm open about it. The difference is what's built into every order:
 
 - Frame-by-frame authenticity QC: I hand-check every frame for AI tells — warped hands, faces, text, "plastic" skin.
-- One consistent AI actor across all variations (Soul ID) — no character that changes face between clips.
+- One consistent AI presenter across all variations (Soul ID) — the same face in every clip, and across the full content set.
 
 If the first video reads as AI, I redo the problem frames free within your revisions.
 
@@ -70,12 +70,12 @@ Not sure it fits your product? Message me first and I'll tell you honestly.
 | Price | **$95** | **$265** | **$545** |
 | Delivery | 3 days | 5 days | 7 days |
 | Revisions | 1 | 2 | 3 |
-| Description | `1 UGC video ad, 1 hook, 15-30s, 9:16, captions. Frame QC + consistent actor included.` | `3 UGC videos (3 hooks), up to 2 ratios, captions. Find your winning hook. QC + actor incl.` | `5 images + 1 video for your PDP/ad set, up to 3 ratios, captions. QC + actor incl.` |
+| Description | `1 UGC video ad, 1 hook, 15-30s, 9:16, captions. Frame QC + AI presenter included.` | `3 UGC videos (3 hooks), up to 2 ratios, captions. Find your winning hook. QC + AI presenter.` | `5 images + 1 video with ONE consistent AI presenter — a mini brand face. Every frame QC'd.` |
 
 **Included-чекбоксы (что тикнуть в пакете):**
-- Basic: Script/hook ✓ · 1 video ✓ · Captions ✓ · 1 aspect ratio ✓ · Authenticity QC ✓ · Consistent actor ✓
+- Basic: Script/hook ✓ · 1 video ✓ · Captions ✓ · 1 aspect ratio ✓ · Authenticity QC ✓ · Consistent AI presenter ✓
 - Standard: всё из Basic + 3 hook variations ✓ · Up to 2 aspect ratios ✓ · Caption/ad-copy variants ✓
-- Premium: всё из Standard + ~5 matching images ✓ · Up to 3 aspect ratios ✓ · "How to test 3 hooks" mini-guide ✓
+- Premium: всё из Standard + 5 images with same AI presenter as video ✓ · Up to 3 aspect ratios ✓ · "How to test 3 hooks" mini-guide ✓
 
 ### Add-ons (gig extras — цены из pricing-v1)
 ```
@@ -91,10 +91,10 @@ Bulk / monthly retainer — contact me for a custom offer
 ### FAQ (готовые Q&A; ответы ≤300 симв.)
 ```
 Q: Why pay you when I can just generate this myself in an AI app?
-A: You're not paying for generation — you're paying for a result. Raw self-made AI is exactly the content that "looks AI" and burns ad spend. I direct it, keep one consistent actor, and hand-check every frame so the ad reads as native and converts.
+A: You're not paying for generation — you're paying for a result. Raw self-made AI is exactly the content that "looks AI" and burns ad spend. I direct it, keep one consistent AI presenter, and hand-check every frame so the ad reads as native and converts.
 
 Q: I've heard AI UGC doesn't convert. How is this different?
-A: Raw AI doesn't convert — I agree. This is human-directed and QC'd to look native, not like an ad. I build it around a hook and a consistent actor, the way a real creator's video looks, not a generic AI clip.
+A: Raw AI doesn't convert — I agree. This is human-directed and QC'd to look native, not like an ad. I build it around a hook and a consistent AI presenter, the way a real creator's video looks, not a generic AI clip.
 
 Q: Will the video look uncanny or obviously AI?
 A: That's the whole thing I prevent. I check every frame for AI tells — hands, faces, warped text, plastic skin — and reshoot anything that reads as AI, within your revisions. The goal is a video that doesn't get clocked.
@@ -106,7 +106,7 @@ Q: What do you need from me to start?
 A: Your product (images or a short clip), your target platform, and a one-line idea of the hook or angle. There's a 5-minute brief form on order. That's enough for me to start.
 
 Q: Can you match the video with images for my product page?
-A: Yes — the Premium package is a full content set: about 5 matching images plus 1 video, so your ad and product page look like one native set.
+A: Yes — the Premium package is a full content set with ONE consistent AI presenter across all of it: 5 images and 1 video showing the same face — a mini brand presenter. Your ad and product page look like one native set, not separate assets.
 ```
 
 ### Requirements (бриф-форма при заказе; ≤200 симв./вопрос)
@@ -241,7 +241,7 @@ ai product photo
 ```
 I make AI content that doesn't look like AI. I create UGC video ads and product images for ecommerce brands — native-looking, scroll-stopping, and built to convert.
 
-My work is AI-assisted and human-directed, and I'm open about it. Every order gets frame-by-frame quality control by hand: I check each frame for AI tells — warped hands, faces, text, plastic skin — and keep one consistent AI actor across a video set, so nothing looks off.
+My work is AI-assisted and human-directed, and I'm open about it. Every order gets frame-by-frame quality control by hand: I check each frame for AI tells — warped hands, faces, text, plastic skin — and keep one consistent AI presenter across the whole set, photos and video, so nothing looks off.
 
 You get the speed and price of AI with the polish buyers expect. Shopify, Amazon, Etsy and DTC sellers welcome.
 ```
@@ -280,7 +280,9 @@ AI UGC video ads & product images that don't look AI
 ---
 
 ## Критерий закрытия этапа 4
-✅ Для каждого гига: SEO-заголовок (в лимите 80) + правило апострофа с fallback, описание (в лимите 1200) со встроенной гарантией — у флагмана ещё capacity-scarcity, таблица пакетов (поля в лимите ~100; Premium флагмана = «5 images + 1 video»), FAQ (6 шт), Requirements-бриф, 5 tags. Из Premium входного удалён чекбокс «matching UGC video» (риск спора). Профиль (bio + one-liner с правилом апострофа). Кросс-сейл-механика решена (Custom Offer). Всё копипастится без доработки.
+✅ Для каждого гига: SEO-заголовок (в лимите 80) + правило апострофа с fallback, описание (в лимите 1200) со встроенной гарантией — у флагмана ещё capacity-scarcity, таблица пакетов (поля в лимите ~100; **Premium флагмана = 5 фото с единым AI presenter + 1 видео с ним же, mini brand face**), FAQ (6 шт), Requirements-бриф, 5 tags. Из Premium входного удалён чекбокс «matching UGC video» (риск спора). Терминология: везде «AI presenter» (не «actor»). Профиль (bio + one-liner с правилом апострофа). Кросс-сейл-механика решена (Custom Offer). Всё копипастится без доработки.
 
 ## Следующий шаг
-**Этап 5 — выставление на площадки:** Оксана публикует гиги/профиль руками, Claude Code сопровождает (чек-лист публикации + подготовка портфолио assets/ в нишах skincare/beauty + home/kitchen gadgets). Выход: `plans/publish-checklist.md`.
+**Этап 5 — выставление на площадки:** Оксана публикует гиги/профиль руками, Claude Code сопровождает (чек-лист публикации + подготовка портфолио assets/ в нишах skincare/beauty + home/kitchen gadgets).
+> **Демо-обязательство (заложить в assets/):** минимум **1 полный Premium-сет** — единый AI presenter (Soul ID) сквозь **5 фото + 1 видео** — как визуальное доказательство обещания «AI presenter across the whole set». Без него Premium-обещание в листинге не подтверждено.
+Выход: `plans/publish-checklist.md`.
